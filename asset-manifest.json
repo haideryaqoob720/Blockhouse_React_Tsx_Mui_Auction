@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Blockhouse_React_Tsx_Mui_Auction/static/css/main.831f1b66.css",
+    "main.css": "/Blockhouse_React_Tsx_Mui_Auction/static/css/main.d4f7b338.css",
     "main.js": "/Blockhouse_React_Tsx_Mui_Auction/static/js/main.0dacbe07.js",
     "static/js/787.3a39cd02.chunk.js": "/Blockhouse_React_Tsx_Mui_Auction/static/js/787.3a39cd02.chunk.js",
     "static/media/asset-bg.png": "/Blockhouse_React_Tsx_Mui_Auction/static/media/asset-bg.e6309429a438d246d495.png",
@@ -9,12 +9,12 @@
     "static/media/blockHouseBackground.png": "/Blockhouse_React_Tsx_Mui_Auction/static/media/blockHouseBackground.2a753fa1f879617e3760.png",
     "static/media/mobile_HeroBackgroundImg.png": "/Blockhouse_React_Tsx_Mui_Auction/static/media/mobile_HeroBackgroundImg.5e57abb80568dc6b0c9b.png",
     "index.html": "/Blockhouse_React_Tsx_Mui_Auction/index.html",
-    "main.831f1b66.css.map": "/Blockhouse_React_Tsx_Mui_Auction/static/css/main.831f1b66.css.map",
+    "main.d4f7b338.css.map": "/Blockhouse_React_Tsx_Mui_Auction/static/css/main.d4f7b338.css.map",
     "main.0dacbe07.js.map": "/Blockhouse_React_Tsx_Mui_Auction/static/js/main.0dacbe07.js.map",
     "787.3a39cd02.chunk.js.map": "/Blockhouse_React_Tsx_Mui_Auction/static/js/787.3a39cd02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.831f1b66.css",
+    "static/css/main.d4f7b338.css",
     "static/js/main.0dacbe07.js"
   ]
 }
